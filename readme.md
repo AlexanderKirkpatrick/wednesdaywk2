@@ -1,6 +1,6 @@
 # _Test Readme_
 
-#### By _**{List of contributors}**_
+#### By _**Alex K**_
 
 #### _{Brief description of application}_
 
